@@ -10,3 +10,7 @@ lunch Menu :
 Butter chicken 1200 cal
 10.99
 polo 2000 cal 15.99
+BURGUR 10000 CAL 5.99
+VEGGI BOWL 10 CAL 5.89
+Burritos 500 cal 3.99
+Kebobo 500 cal 9.99
