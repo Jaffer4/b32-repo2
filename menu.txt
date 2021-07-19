@@ -14,3 +14,12 @@ BURGUR 10000 CAL 5.99
 VEGGI BOWL 10 CAL 5.89
 Burritos 500 cal 3.99
 Kebobo 500 cal 9.99
+
+
+Steak 600 cal 13.99
+Sandwich 400 cal 4.99
+
+
+Pizza 300 cal 9.99
+Soup 5 cal 3.99
+Dumpling 
