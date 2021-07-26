@@ -1,7 +1,7 @@
 B23 is learing git
 
 We just made our first commit YAY!!
-
+Yay!
 Git keep track of changes
 from the last point you made
 commit till the current change you make
